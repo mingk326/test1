@@ -1,7 +1,7 @@
 ### Hello 👋
-
-整天半吊子和不学无术的坏孩子,梦想成为庄稼地里的读书人.....
 <img src="https://tuchuang.augustlove.cn/pictures/AmashiroNatsukiNachoAgADdwEAAh5BpQg.png" width="300" height="100%" />
+整天半吊子和不学无术的坏孩子,梦想成为庄稼地里的读书人.....
+
 
 
 [![august's github stats](https://github-readme-stats.vercel.app/api?username=mingk326&show_icons=true&locale=cn)](https://github.com/mingk326)
