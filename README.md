@@ -24,4 +24,3 @@ Contact:
 
 
 ![ayaya](https://count.ayaya.beauty/get/@mingk326?theme=rule34)
-<body background="https://tuchuang.augustlove.cn/pictures/164b430d61bee3a4f33f70dcdf08a43b.png">
